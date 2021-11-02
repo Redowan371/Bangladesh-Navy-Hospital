@@ -1,0 +1,16 @@
+.appointments-icon i{
+    font-size: 60px;
+    display: inline;
+    color: #39489D;
+}
+.appoint-form{
+    border: 2px solid blue;
+    border-radius: 8px;
+}
+.appoint-form-details input{
+    border: none;
+    outline: none;
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 10px 6px;
+}

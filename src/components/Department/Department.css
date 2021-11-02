@@ -1,0 +1,18 @@
+.dental-img img{
+    width: 150px !important;
+    height: 200px;
+}
+.dental-text{
+    text-align: justify;
+}
+.departMent-details{
+    border: 2px solid blue;
+    margin-top: 6px;
+    padding: 4px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+.departMent-details img{
+    height: 100px;
+}

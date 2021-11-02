@@ -1,0 +1,33 @@
+.doctors-icon{
+    position: absolute;
+    top: 0;
+    left: -2000px;
+}
+.doctors-icon i{
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    background: blue;
+    border-radius: 50%;
+    margin: 4px;
+    border: 2px solid blue;
+    cursor: pointer;
+    transition: all ease-in-out .5s;
+}
+.doctors-icon i:hover{
+    background: transparent;
+    color: blue;
+}
+.doctor-details{
+    position: relative;
+}
+.doctor-details:hover .doctors-icon{
+    top: 98%;
+    left: 50%;
+    margin-top: -50px;
+  margin-left: -100px;
+}
+.doctor-text p{
+    color: blue;
+    cursor: pointer;
+}

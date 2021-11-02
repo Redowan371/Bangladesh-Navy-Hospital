@@ -1,0 +1,7 @@
+.contract-form input, textarea{
+    outline: none;
+    border: none;
+    border: 2px solid blue;
+    padding: 15px 5px;
+    border-radius: 30px;
+}

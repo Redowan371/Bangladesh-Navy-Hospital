@@ -1,0 +1,10 @@
+.service-img{
+    height: 500px;
+}
+.details-text{
+    text-align: justify;
+   
+}
+.details-text span{
+    color:#555;
+}

@@ -1,0 +1,18 @@
+.banner-text1,.banner-text2,.banner-text3{
+    text-align: center;
+    text-transform: uppercase;
+}
+.banner-text1 span{
+    color: red;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 26px;
+    font-weight: 700;
+}
+.banner-text2 span{
+    color: #42c1cf;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 26px;
+    font-weight: 700;
+}
